@@ -1,0 +1,10 @@
+Course_ID,Teacher_ID,Name,n_student,slot
+CC01,S1951,Mo Hinh Hoa,1,50
+CC01,S1952,Mo Hinh Hoa,0,30
+CC02,S1952,He Thong Nhung,1,50
+CC03,S1953,Lap Trinh Web,1,50
+CC04,S1954,He Thong Thong Minh,1,50
+CC05,S1955,He quan tri CSDL,1,50
+CC06,S1956,He dieu hanh,1,50
+CC07,S1957,Toan roi rac 2,1,50
+CC08,S1958,LT Android,1,50
